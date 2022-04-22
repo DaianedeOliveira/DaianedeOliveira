@@ -1,4 +1,5 @@
 ### Olá! Eu sou a Daiane Alves 👋
+### Bem-vindo(a) ao meu perfil GitHub 👩‍💻
  🌱 - I am currently learning Html, Css and JavaScript
 
 ![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
