@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Daiane Alves 👋
-- 🌱 Atualmente estou aprendendo  Html, Css e JavaScript
+ 🌱 I am currently learning Html, Css and JavaScrip
 
 ![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
