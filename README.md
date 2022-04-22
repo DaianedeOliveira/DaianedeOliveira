@@ -11,11 +11,6 @@
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
 
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-
 ![Snake animation](https://github.com/DaianedeOliveira/DaianedeOliveira/blob/output/github-contribution-grid-snake.svg)
 
 
