@@ -12,7 +12,14 @@
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
 
 
-<div class="tenor-gif-embed" data-postid="5368357" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-fast-gif-5368357">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 ![Snake animation](https://github.com/DaianedeOliveira/DaianedeOliveira/blob/output/github-contribution-grid-snake.svg)
 
