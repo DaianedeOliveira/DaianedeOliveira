@@ -14,10 +14,7 @@
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
 
 
-![Snake animation](https://github.com/DaianedeOliveira/DaianedeOliveira/blob/output/github-contribution-grid-snake.svg)
-
-
-![][<div class="tenor-gif-embed" data-postid="15481689" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-busy-gif-15481689">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+<iframe src="https://giphy.com/embed/H1dxi6xdh4NGQCZSvz" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/justviralnet-cat-hilarious-typing-H1dxi6xdh4NGQCZSvz">via GIPHY</a></p>
 
 
 
