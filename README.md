@@ -16,7 +16,7 @@
 
 ![Snake animation](https://github.com/DaianedeOliveira/DaianedeOliveira/blob/output/github-contribution-grid-snake.svg)
 
-![][(https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png ](https://myoctocat.com/build-your-octocat/)| width=100)
+![][([https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png ](https://myoctocat.com/build-your-octocat/)| width=100](https://tenor.com/view/cat-computer-typing-busy-gif-15481689))
 
 
 
