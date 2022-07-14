@@ -15,6 +15,7 @@
 
 
 ![](https://giphy.com/embed/paTz7UZbPfTZFRYnnB)
+<iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="480" height="480" frameBorder="0" class="giphy-embed"=href="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB">=
 
 
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
