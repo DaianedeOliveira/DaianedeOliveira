@@ -14,7 +14,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-<iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB">
+![Giphy](https://giphy.com/embed/paTz7UZbPfTZFRYnnB)
+
 
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
