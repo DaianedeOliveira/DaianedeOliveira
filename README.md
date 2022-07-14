@@ -14,8 +14,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-![](https://giphy.com/embed/paTz7UZbPfTZFRYnnB)
-<iframe src="https://giphy.com/embed/paTz7UZbPfTZFRYnnB" width="480" height="480" frameBorder="0" class="giphy-embed"=href="https://giphy.com/stickers/mrurbinaco-mr-urbina-office-paTz7UZbPfTZFRYnnB">=
 
 
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
