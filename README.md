@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Daiane Alves 👋
 ### Bem-vindo ao meu perfil GitHub 👩‍💻
-- 🌱 - Sou estudante de Sistemas para Internet.
-- 📚 - Possuo conhecimentos em HTML, CSS, JavaScript, Banco de Ddos, Bootstrap e React Native.
+- 🌱 - Sou estudante de Sistemas para Internet e uma pessoa apaixonada por Tecnologia e Design.
+- 📚 - Possuo conhecimentos em HTML, CSS, JavaScript, Banco de Dados, Photoshop, figma, Bootstrap e React Native.
 
  ![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
