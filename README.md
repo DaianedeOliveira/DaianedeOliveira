@@ -1,4 +1,4 @@
-### Hi! My name is Daiane Alves 😄
+### Hi! My name is Daiane 😄
 
 📚 i'm people passionate for technology and education.
 
