@@ -24,7 +24,6 @@
 
 
 ![Daiane GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianedeOliveira&show_icons=true&theme=radical)
-![](https://tenor.com/pt-BR/view/goma-cat-cute-woking-night-gif-24912722)
 
 
 
