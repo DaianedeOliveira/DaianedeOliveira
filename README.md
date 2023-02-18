@@ -4,9 +4,12 @@
 
 Sobre mim
 🔭 Atualmente estou trabalhando na área de Business Intelligence.
-🌱 Estou aprendendo:![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+🌱 Estou aprendendo:!
+[Python]([https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SAP Analytics](https://img.shields.io/badge/SAP-Analytics-0FAAFF.svg)
-![Power BI](https://img.shields.io/badge/Power%20BI-%2300B4F0.svg?style=
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+![sql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 🧠 Possuo conhecimento:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -19,7 +22,7 @@ Sobre mim
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Gato animado](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif)
+![Gato animado](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
 
