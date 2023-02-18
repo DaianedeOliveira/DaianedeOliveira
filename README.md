@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![girl](https://img.freepik.com/free-vector/innovation-concept-illustration_114360-5848.jpg?w=200)
+![girl](https://static.vecteezy.com/system/resources/previews/017/106/091/original/3d-illustration-of-woman-doing-coding-and-programming-on-her-laptop-vector.jpg)
 
 
 
