@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![girl](https://static.vecteezy.com/system/resources/previews/017/106/091/original/3d-illustration-of-woman-doing-coding-and-programming-on-her-laptop-vector.jpg)
+![girl]([https://static.vecteezy.com/system/resources/previews/017/106/091/original/3d-illustration-of-woman-doing-coding-and-programming-on-her-laptop-vector.jpg](https://cdn.dribbble.com/users/870476/screenshots/9538828/media/4a85a40fd8e991a0341f7e9edacd2e63.jpg?compress=1&resize=400x300&vertical=top)
 
 
 
