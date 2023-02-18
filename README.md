@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![Gato animado](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![girl](https://img.freepik.com/free-vector/innovation-concept-illustration_114360-5848.jpg?w=2000)
 
 
 
