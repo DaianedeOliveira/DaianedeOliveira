@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![girl](https://wallup.net/wp-content/uploads/2019/09/456808-computer-engineering-science-tech.jpg)
+![girl](https://wallup.net/wp-content/uploads/2019/09/456808-computer-engineering-science-tech.jpg w-50 h-50)
 
 
 
