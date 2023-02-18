@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![girl](https://img.freepik.com/free-vector/innovation-concept-illustration_114360-5848.jpg?w=2000)
+![girl](https://img.freepik.com/free-vector/innovation-concept-illustration_114360-5848.jpg?w=200)
 
 
 
