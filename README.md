@@ -1,7 +1,7 @@
 # Olá! 👋
 
 👩 Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e habilidades. Meu nome é Daiane e sou uma pessoa apaixonada por tecnologia.
-Sobre mim
+
 
 ### 🌱 Estou aprendendo:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
