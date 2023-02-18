@@ -4,8 +4,8 @@
 
 Sobre mim
 🔭 Atualmente estou trabalhando na área de Business Intelligence.
-🌱 Estou aprendendo:!
-[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+🌱 Estou aprendendo:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SAP Analytics](https://img.shields.io/badge/SAP-Analytics-0FAAFF.svg)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
