@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-![girl](https://user-images.githubusercontent.com/99364026/219903778-126b19e4-39b7-48d2-be38-7c41595bfebc.png)
+  ![girl](https://user-images.githubusercontent.com/99364026/219903778-126b19e4-39b7-48d2-be38-7c41595bfebc.png)
 
 
 
