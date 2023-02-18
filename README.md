@@ -1,7 +1,6 @@
 ## Olá! 👋
 
-👩 Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e habilidades. Meu nome é Daiane e sou uma pessoa apaixonada por tecnologia e educação.
-
+👩 Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e habilidades. Meu nome é Daiane e sou uma pessoa apaixonada por tecnologia.
 Sobre mim
 🔭 Atualmente estou trabalhando na área de Business Intelligence.
 🌱 Estou aprendendo:
