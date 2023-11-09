@@ -1,23 +1,30 @@
+# 👋 Olá, seja bem-vindo ao meu perfil do GitHub!
 
-* 👋  Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e habilidades. 
-<br>
+Meu nome é Daiane e estou empolgada em compartilhar meus projetos e habilidades com você. :)
 
-## 🌱 Estou aprendendo:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![sql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Chatbot](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-![SAP Analytics](https://img.shields.io/badge/SAP-Analytics-0FAAFF.svg)
+## 🌱 Aprendizado Contínuo
 
-## 🧠 Possuo conhecimento:
+Atualmente, estou focando meus esforços em várias tecnologias e áreas, incluindo:
 
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- **Python**: Análise de dados e estatistíca.
+- **SQL**: Análise e gerenciamento de dados com PostgreSQL.
+- **SAP Analytics**: Exploração de dados e análise com as ferramentas SAP.
+-  **PowerBI**: Criação de painéis interativos e relatórios de negócios.
+
+
+## 🚀 Experiência e Conhecimentos
+
+Além do meu aprendizado contínuo, através de cursos e da faculdade, consegui adquirir conhecimentos em diversas tecnologias e ferramentas, incluindo:
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, React e Bootstrap para construção de sites e aplicativos web.
+- **Visual Studio Code**: Minha IDE preferida para desenvolvimento.
+- **Chatbot**: Construção de assistentes virtuais com Dialogflow.
+- **Controle de Versão**: Utilizo o Git para gerenciar meu código e colaborar em projetos.
+
+
+## 📫 Contato
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daiane-alves-de-oliveira/)
+- **Portfólio:** [portfólio]([seu@email.com](https://bento.me/daianeoliveira)https://bento.me/daianeoliveira)
 
 
 
