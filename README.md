@@ -16,7 +16,7 @@ Atualmente, estou focando meus esforços em várias tecnologias e áreas, inclui
 
 Além do meu aprendizado contínuo, através de cursos e da faculdade, consegui adquirir conhecimentos em diversas tecnologias e ferramentas, incluindo:
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, React e Bootstrap para construção de sites e aplicativos web.
-- **Visual Studio Code**: Minha IDE preferida para desenvolvimento.
+- **Visual Studio Code**: IDE para desenvolvimento.
 - **Chatbot**: Construção de assistentes virtuais com Dialogflow.
 - **Controle de Versão**: Utilizo o Git para gerenciar meu código e colaborar em projetos.
 
@@ -24,7 +24,7 @@ Além do meu aprendizado contínuo, através de cursos e da faculdade, consegui 
 ## 📫 Contato
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daiane-alves-de-oliveira/)
-- **Portfólio:** [portfólio]([seu@email.com](https://bento.me/daianeoliveira)https://bento.me/daianeoliveira)
+- **Portfólio:** [portfólio](https://bento.me/daianeoliveira)
 
 
 
