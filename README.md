@@ -21,10 +21,6 @@ Além do meu aprendizado contínuo, através de cursos e da faculdade, consegui 
 - **Controle de Versão**: Utilizo o Git para gerenciar meu código e colaborar em projetos.
 
 
-## 📫 Contato
-
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/daiane-alves-de-oliveira/)
-- **Portfólio:** [portfólio](https://bento.me/daianeoliveira)
 
 
 
