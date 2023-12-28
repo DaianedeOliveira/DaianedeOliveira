@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
+# 😀 Olá, seja bem-vindo(a) ao meu perfil do GitHub!
 
 Meu nome é Daiane e estou empolgada em compartilhar meus projetos e habilidades com você. :)
 
