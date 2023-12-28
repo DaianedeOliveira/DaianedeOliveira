@@ -19,6 +19,7 @@ Além do meu aprendizado contínuo, através de cursos e da faculdade, consegui 
 - **Visual Studio Code**: IDE para desenvolvimento.
 - **Chatbot**: Construção de assistentes virtuais com Dialogflow.
 - **Controle de Versão**: Utilizo o Git para gerenciar meu código e colaborar em projetos.
+- **Dados**: Utilizando SQL e Python.
 
 
 
